@@ -1,4 +1,17 @@
+*{
+    background-color: #1d1c1c;
+    color: rgb(201, 214, 226);
+}
+
 img{
     width: 400px;
     height: 300px;
+}
+
+h2{
+    text-align: center;
+}
+
+a{
+    display: block;
 }
